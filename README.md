@@ -1,1 +1,2 @@
-# NT106_DOAN_Group24
+# Hunter-of-the-Abyss
+Đồ án môn học
